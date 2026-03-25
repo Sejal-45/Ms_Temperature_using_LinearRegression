@@ -32,13 +32,6 @@ This project focuses on predicting the **Martensite Start (Ms) temperature** usi
 ## 📈 Results
 The model captures relationships between material composition and Ms temperature, providing reliable predictions and insights into key influencing features.
 
-## 📊 Visualizations
-
-### Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
-### Model Prediction vs Actual
-![Prediction](images/prediction.png)
 ---
 
 ## 🚀 Key Highlights
