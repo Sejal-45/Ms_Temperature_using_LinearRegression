@@ -33,6 +33,13 @@ This project focuses on predicting the **Martensite Start (Ms) temperature** usi
 The model captures relationships between material composition and Ms temperature, providing reliable predictions and insights into key influencing features.
 
 ---
+## 📊 Dataset
+
+The dataset used for this project is sourced from:
+
+🔗 [Dataset Source](https://www.sciencedirect.com/science/article/pii/S0364591624000907?via%3Dihub)
+
+It contains metallurgical composition data (C, Ni, Mn) and corresponding Ms values used for regression modeling.
 
 ## 🚀 Key Highlights
 - End-to-end data analysis and machine learning pipeline  
